@@ -6,7 +6,7 @@ class GroceryData {
       'description': 'Crisp and juicy red apples',
       'price': 2.99,
       'imageUrl':
-          'https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg',
+          'https://images.everydayhealth.com/images/apples-101-about-1440x810.jpg?sfvrsn=f86f2644_1',
     },
     {
       'id': 2,
@@ -14,7 +14,7 @@ class GroceryData {
       'description': 'Ripe and yellow bananas',
       'price': 1.99,
       'imageUrl':
-          'https://th-thumbnailer.cdn-si-edu.com/4Nq8HbTKgX6djk07DqHqRsRuFq0=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/d5/24/d5243019-e0fc-4b3c-8cdb-48e22f38bff2/istock-183380744.jpg',
+          'https://images.everydayhealth.com/images/diet-nutrition/all-about-bananas-nutrition-facts-health-benefits-recipes-and-more-rm-722x406.jpg',
     },
     {
       'id': 3,
@@ -30,7 +30,7 @@ class GroceryData {
       'description': 'Fresh and creamy whole milk',
       'price': 2.79,
       'imageUrl':
-          'https://img.freepik.com/free-vector/isolated-milk-box-cartoon-style_1308-117384.jpg?w=360',
+          'https://i.mscwlns.co/mosaic-wellness/image/upload/f_auto,w_1000,c_limit/v1643983013/BW%20BLOG/Untitled-design---2022-02-04T192644.467_11zon.jpg',
     },
     {
       'id': 5,
@@ -38,7 +38,7 @@ class GroceryData {
       'description': 'Farm-fresh eggs',
       'price': 1.99,
       'imageUrl':
-          'https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg',
+          'https://images.theconversation.com/files/372017/original/file-20201130-21-zuzh18.jpg?ixlib=rb-1.1.0&rect=8%2C17%2C5888%2C2944&q=45&auto=format&w=1356&h=668&fit=crop',
     },
     {
       'id': 6,
@@ -46,7 +46,7 @@ class GroceryData {
       'description': 'Organic spinach leaves',
       'price': 2.49,
       'imageUrl':
-          'https://cdn.britannica.com/30/82530-050-79911DD4/Spinach-leaves-vitamins-source-person.jpg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAggUvcwiO-ijTQ-InwRt57DJzYxhL9qzxw&usqp=CAU',
     },
     // Add more products as needed
   ];
